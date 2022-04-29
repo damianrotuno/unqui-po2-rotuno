@@ -1,0 +1,16 @@
+1. ¿Qué son los tipos de datos primitivos?
+2. ¿Cuál es la diferencia entre un int y un Integer?
+3. ¿Si se define una variable de instancia de tipo int cual sería su valor predeterminado? ¿Y si se
+define una de tipo Integer? Haga la prueba en Eclipse.
+4. Responder la pregunta del punto anterior (3) pero ahora en lugar de definir una variable de
+instancia se define una variable de método.
+
+1. Un tipo primitivo está predefinido por el lenguaje y es nombrado por una palabra clave 
+reservada. Los valores primitivos no comparten estado con otros valores primitivos
+
+2.La diferencia es que int es un tipo primitivo, mientras que Integer es una clase, la cual
+contiene a int.
+
+3. El valor predeterminado de int es 0. En el caso de Integer es null.
+
+4.
